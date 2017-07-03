@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebApp</string>
+
+    <string name="splash_act_wifi_disabled_title">No connection</string>
+    <string name="splash_act_wifi_disabled_content">Check network connection</string>
+    <string name="splash_act_wifi_disabled_positive">Settings</string>
+    <string name="splash_act_wifi_disabled_negative">Cancel</string>
+</resources>
